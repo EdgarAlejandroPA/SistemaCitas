@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FatJar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FatJar</output-path>
+    <root id="archive" name="FatJar.jar">
+      <element id="module-output" name="SistemaCitas" />
+    </root>
+  </artifact>
+</component>
